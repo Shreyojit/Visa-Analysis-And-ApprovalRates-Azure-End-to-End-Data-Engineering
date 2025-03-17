@@ -40,5 +40,3 @@ This project provides an end-to-end data processing and visualization of visa nu
 - The country name corrections and continent mapping are based on the `pycountry` and `pycountry_convert` libraries. Ensure that these libraries are up-to-date to get accurate results.
 - You can adjust the manual mappings in the `country_mapping` dictionary in the `main.py` file to correct any country names that are not correctly matched.
 
-## 🎥 Video
-[![Japan Visa Analysis: Azure Data End to End Data Engineering](https://img.youtube.com/vi/f-IcM8mFmDc/0.jpg)](https://youtu.be/f-IcM8mFmDc)
